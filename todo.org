@@ -4,16 +4,16 @@ SCHEDULED: <2016-01-21 Thu +1w>
 * TODO Seminar Report
 SCHEDULED: <2016-01-26 Tue +1w>
 * TODO Resume
-SCHEDULED: <2016-01-25 Mon>
+DEADLINE: <2016-01-25 Mon>
 * Long Assignment 1
-SCHEDULED: <2016-02-14 Sun>
+DEADLINE: <2016-02-14 Sun>
 * Long Assignment 2
-SCHEDULED: <2016-03-13 Sun>
+DEADLINE: <2016-03-13 Sun>
 * Long Assignment 3
-SCHEDULED: <2016-04-10 Sun>
+DEADLINE: <2016-04-10 Sun>
 * Culture Assignment 1
-SCHEDULED: <2016-02-21 Sun>
+DEADLINE: <2016-02-21 Sun>
 * Culture Assignment 2
-SCHEDULED: <2016-03-20 Sun>
+DEADLINE: <2016-03-20 Sun>
 * Culture Assignment 3
-SCHEDULED: <2016-04-17 Sun>
+DEADLINE: <2016-04-17 Sun>
