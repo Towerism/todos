@@ -1,1 +1,52 @@
+<<<<<<< 62a33357c732506764f6b20c00eaff1d5d1a9478
 #+CATEGORY: GEOG 203
+=======
+#+CATEGORY: MKTG 409
+* DONE Watch introduction
+<2016-01-19 Tue>
+CLOSED: [2016-01-20 Wed 00:53]
+* TODO Sign up for research surveys
+SCHEDULED: <2016-01-25 Mon +1w>
+* TODO Read first chapter
+SCHEDULED: <2017-01-27 Wed +1w>
+* TODO Read second chapter
+SCHEDULED: <2016-01-29 Fri +1w>
+* TODO Watch first lecture
+SCHEDULED: <2016-01-27 Wed +1w>
+* TODO Watch second lecture
+SCHEDULED: <2016-01-29 Fri +1w>
+* TODO Take 1-5 quizzes and exam [0%]
+DEADLINE: <2016-02-12 Fri>
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] exam
+* TODO Take 6-10 quizzes and exam [%]
+DEADLINE: <2016-02-12 Fri>
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] exam
+* TODO Take 11-15 quizzes and exam [%]
+DEADLINE: <2016-02-12 Fri>
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
+- [ ] 15
+- [ ] exam
+* TODO Take 16-20 quizzes and exam [0%]
+DEADLINE: <2016-05-06 Fri>
+- [ ] 16
+- [ ] 17
+- [ ] 18
+- [ ] 19
+- [ ] 20
+- [ ] exam
+* TODO View film
+SCHEDULED: <2016-02-01 Thu +1m>
+>>>>>>> Re-organize todos
