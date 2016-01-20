@@ -1,2 +1,5 @@
-* <2016-01-19 Tue>
-** TODO This is an example TODO
+#+CATEGORY: CSCE 481
+* TODO Seminar Report
+SCHEDULED: <2016-01-21 Thu +1w>
+* TODO Seminar Report
+SCHEDULED: <2016-01-26 Tue +1w>
