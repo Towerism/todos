@@ -7,15 +7,15 @@ SCHEDULED: <2016-01-26 Tue +1w>
 DEADLINE: <2016-01-27 Wed +1w>
 * TODO Resume
 DEADLINE: <2016-01-25 Mon>
-* Long Assignment 1
+* TODO Long Assignment 1
 DEADLINE: <2016-02-14 Sun>
-* Long Assignment 2
+* TODO Long Assignment 2
 DEADLINE: <2016-03-13 Sun>
-* Long Assignment 3
+* TODO Long Assignment 3
 DEADLINE: <2016-04-10 Sun>
-* Culture Assignment 1
+* TODO Culture Assignment 1
 DEADLINE: <2016-02-21 Sun>
-* Culture Assignment 2
+* TODO Culture Assignment 2
 DEADLINE: <2016-03-20 Sun>
-* Culture Assignment 3
+* TODO Culture Assignment 3
 DEADLINE: <2016-04-17 Sun>
