@@ -1,0 +1,19 @@
+#+CATEGORY: CSCE 481
+* TODO Seminar Report
+DEADLINE: <2016-01-22 Fri +1w> SCHEDULED: <2016-01-21 Thu +1w>
+* TODO Seminar Report
+DEADLINE: <2016-01-27 Wed +1w> SCHEDULED: <2016-01-26 Tue +1w>
+* TODO Resume
+DEADLINE: <2016-01-25 Mon>
+* TODO Long Assignment 1
+DEADLINE: <2016-02-14 Sun>
+* TODO Long Assignment 2
+DEADLINE: <2016-03-13 Sun>
+* TODO Long Assignment 3
+DEADLINE: <2016-04-10 Sun>
+* TODO Culture Assignment 1
+DEADLINE: <2016-02-21 Sun>
+* TODO Culture Assignment 2
+DEADLINE: <2016-03-20 Sun>
+* TODO Culture Assignment 3
+DEADLINE: <2016-04-17 Sun>
