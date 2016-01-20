@@ -1,6 +1,3 @@
-<<<<<<< 62a33357c732506764f6b20c00eaff1d5d1a9478
-#+CATEGORY: GEOG 203
-=======
 #+CATEGORY: MKTG 409
 * DONE Watch introduction
 <2016-01-19 Tue>
@@ -49,4 +46,3 @@ DEADLINE: <2016-05-06 Fri>
 - [ ] exam
 * TODO View film
 SCHEDULED: <2016-02-01 Thu +1m>
->>>>>>> Re-organize todos
