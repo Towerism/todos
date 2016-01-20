@@ -1,4 +1,3 @@
-#+CATEGORY: MKTG 409
 * DONE Watch introduction
 <2016-01-19 Tue>
 CLOSED: [2016-01-20 Wed 00:53]
