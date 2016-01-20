@@ -1,2 +1,14 @@
-* CSCE 481-
+* CSCE 481-900
+Pass/fail
+website: [[http://courses.cse.tamu.edu/jmichael/sp16/481]]
+** Seminar Reports
+- There are 17 seminars (14 reports are required)
+- Deadline is 11:50pm the following day (hard deadline)
+** Long and Short Assignments
+- 21 points that can be used to excuse late submissions (1 point per late submission)
+** Revisions
+- Any writing assignment can be resubmitted for an approved grade within 1 week
+  of the assignment being e-returned.
 ** <2016-01-19 Tue>
+
+
