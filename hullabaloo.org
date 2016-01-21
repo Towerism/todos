@@ -1,16 +1,16 @@
-* MBKB Missouri
+* MBKB Missouri 2:00pm
 <2016-01-23 San>
-* MBKB South Carolina
+* MBKB South Carolina 4:00pm
 <2016-01-31 Sun>
-* WBKB Tennessee
+* WBKB Tennessee TBA (1 or 3)
 <2016-02-07 Sun>
-* MBKB Ole Miss
+* MBKB Ole Miss 7:00pm
 <2016-02-16 Tue>
-* MBKB Kentucky
+* MBKB Kentucky TBA
 <2016-02-20 Sat>
-* WBKB Kentucky
+* WBKB Kentucky TBA (12-1 or 3)
 <2016-02-28 Sun>
-* MBKB Vanderbilt
+* MBKB Vanderbilt TBA
 <2016-03-05 Sat>
 * MBKB NCAA Championship
 <2016-03-16 Wed>--<2016-03-20 Sun>
