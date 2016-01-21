@@ -20,7 +20,7 @@ DEADLINE: <2016-02-12 Fri>
 - [ ] 5
 - [ ] exam
 * TODO Take 6-10 quizzes and exam [0%]
-DEADLINE: <2016-02-12 Fri>
+DEADLINE: <2016-03-11 Fri>
 - [ ] 6
 - [ ] 7
 - [ ] 8
@@ -28,7 +28,7 @@ DEADLINE: <2016-02-12 Fri>
 - [ ] 10
 - [ ] exam
 * TODO Take 11-15 quizzes and exam [0%]
-DEADLINE: <2016-02-12 Fri>
+DEADLINE: <2016-04-08 Fri>
 - [ ] 11
 - [ ] 12
 - [ ] 13
