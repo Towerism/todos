@@ -1,5 +1,6 @@
 * Supper with parents
 <2016-02-13 Sat>
 * TODO Fix wifi
+* TODO Fix mousepad
 * DONE Install texlive-most
 CLOSED: [2016-01-25 Mon 19:43]
