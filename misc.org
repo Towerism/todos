@@ -1,2 +1,5 @@
 * Supper with parents
 <2016-02-13 Sat>
+* TODO Fix wifi
+* DONE Install texlive-most
+CLOSED: [2016-01-25 Mon 19:43]
