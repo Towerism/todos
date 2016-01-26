@@ -1,2 +1,6 @@
 * No class
 <2016-01-22 Fri>
+* TODO Lin Alg Review
+DEADLINE: <2016-02-20>
+* TODO Simple GLUT/OpenGL Application
+DEADLINE: <2016-02-01 Mon>
