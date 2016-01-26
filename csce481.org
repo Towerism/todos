@@ -1,11 +1,11 @@
 * TODO Seminar Report
+DEADLINE: <2016-01-27 Wed +1w> SCHEDULED: <2016-01-26 Tue +1w>
+* TODO Seminar Report
 DEADLINE: <2016-01-29 Fri +1w> SCHEDULED: <2016-01-28 Thu +1w>
 - State "DONE"       from "TODO"       [2016-01-23 Sat 02:45]
 :PROPERTIES:
 :LAST_REPEAT: [2016-01-23 Sat 02:45]
 :END:
-* TODO Seminar Report
-DEADLINE: <2016-01-27 Wed +1w> SCHEDULED: <2016-01-26 Tue +1w>
 * TODO Resume
 DEADLINE: <2016-01-25 Mon>
 * TODO Long Assignment 1
