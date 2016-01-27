@@ -1,5 +1,14 @@
 * Supper with parents
 <2016-02-13 Sat>
 * TODO Fix wifi
+* TODO Fix mousepad
+* Information Session 1 - Graduate School 101 5:45pm-7:00pm
+<2016-02-04 Thu>
+RICH 106
+RSVP http://engineering.tamu.edu/graduate/events/gradschool101
+* Information Session 1 - Graduate School 101 5:45pm-7:00pm
+<2016-02-29 Mon>
+RICH 106
+RSVP http://engineering.tamu.edu/graduate/events/gradschool101
 * DONE Install texlive-most
 CLOSED: [2016-01-25 Mon 19:43]
