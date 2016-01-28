@@ -5,7 +5,9 @@ CLOSED: [2016-01-28 Thu 12:37]
 * DONE Fix mousepad
 CLOSED: [2016-01-28 Thu 12:37]
 * DONE Install texlive-most
+
 CLOSED: [2016-01-25 Mon 19:43]
+* TODO Check out emacs-tv-config by thierryvolpiatto
 * Information Session 1 - Graduate School 101 5:45pm-7:00pm
 <2016-02-04 Thu>
 RICH 106
