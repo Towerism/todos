@@ -1,1 +1,4 @@
-* TODO Quiz 1 (batman v superman)
+* DONE Quiz 1 (batman v superman)
+CLOSED: [2016-01-26 Tue 22:08]
+* TODO Quiz 2 paper protypes tutorial review
+DEADLINE: <2016-01-30 Fri>
