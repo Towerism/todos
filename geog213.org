@@ -1,2 +1,3 @@
-* TODO Lab Report On Car Counting Experiment
-DEADLINE: <2016-02-01 Mon>
+* DONE Lab Report On Car Counting Experiment
+CLOSED: [2016-02-01 Mon 14:59] DEADLINE: <2016-02-01 Mon>
+* TODO Reflection on spatial awareness
