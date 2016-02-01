@@ -2,10 +2,11 @@
 <2016-01-19 Tue>
 CLOSED: [2016-01-20 Wed 00:53]
 * TODO Sign up for research surveys
-SCHEDULED: <2016-02-01 Mon +1w>
+SCHEDULED: <2016-02-08 Mon +1w>
+- State "DONE"       from "TODO"       [2016-02-01 Mon 16:23]
 - State "DONE"       from "TODO"       [2016-01-28 Thu 12:34]
 :PROPERTIES:
-:LAST_REPEAT: [2016-01-28 Thu 12:34]
+:LAST_REPEAT: [2016-02-01 Mon 16:23]
 :END:
 * TODO Watch first lecture
 SCHEDULED: <2016-02-03 Wed +1w>
@@ -14,7 +15,11 @@ SCHEDULED: <2016-02-03 Wed +1w>
 :LAST_REPEAT: [2016-01-28 Thu 12:34]
 :END:
 * TODO Watch second lecture
-SCHEDULED: <2016-01-29 Fri +1w>
+SCHEDULED: <2016-02-05 Fri +1w>
+- State "DONE"       from "TODO"       [2016-02-01 Mon 16:24]
+:PROPERTIES:
+:LAST_REPEAT: [2016-02-01 Mon 16:24]
+:END:
 * TODO Take 1-5 quizzes and exam [33%]
 DEADLINE: <2016-02-12 Fri>
 - [X] 1
@@ -48,4 +53,8 @@ DEADLINE: <2016-05-06 Fri>
 - [ ] 20
 - [ ] exam
 * TODO View film
-SCHEDULED: <2016-02-01 Thu +1m>
+SCHEDULED: <2016-03-01 Tue +1m>
+- State "DONE"       from "TODO"       [2016-02-01 Mon 16:24]
+:PROPERTIES:
+:LAST_REPEAT: [2016-02-01 Mon 16:24]
+:END:
