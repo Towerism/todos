@@ -4,3 +4,5 @@
 CLOSED: [2016-02-01 Mon 14:56] DEADLINE: <2016-02-20>
 * DONE Simple GLUT/OpenGL Application
 CLOSED: [2016-02-01 Mon 14:56] DEADLINE: <2016-02-01 Mon>
+* TODO Event-driven assignment
+DEADLINE: <2016-02-08 Mon>
