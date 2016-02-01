@@ -15,10 +15,10 @@ SCHEDULED: <2016-02-03 Wed +1w>
 :END:
 * TODO Watch second lecture
 SCHEDULED: <2016-01-29 Fri +1w>
-* TODO Take 1-5 quizzes and exam [16%]
+* TODO Take 1-5 quizzes and exam [33%]
 DEADLINE: <2016-02-12 Fri>
 - [X] 1
-- [ ] 2
+- [X] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
