@@ -2,5 +2,7 @@
 CLOSED: [2016-01-26 Tue 22:08]
 * DONE Quiz 2 paper protypes tutorial review
 CLOSED: [2016-01-28 Thu 12:36] DEADLINE: <2016-01-30 Fri>
-* DONE Quiz 3 DEADLINE: <2016-02-05 Fri>
+* DONE Quiz 3 
+DEADLINE: <2016-02-05 Fri>
 CLOSED: [2016-02-02 Tue 12:37]
+* TODO Quiz 4
