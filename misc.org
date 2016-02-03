@@ -16,5 +16,5 @@ RSVP http://engineering.tamu.edu/graduate/events/gradschool101
 <2016-02-29 Mon>
 RICH 106
 RSVP http://engineering.tamu.edu/graduate/events/gradschool101
-* Interview at Reynolds and Reynolds
+* Interview at Reynolds and Reynolds 11:00am
 SCHEDULED: <2016-02-05 Fri>
