@@ -9,16 +9,18 @@ SCHEDULED: <2016-02-08 Mon +1w>
 :LAST_REPEAT: [2016-02-01 Mon 16:23]
 :END:
 * TODO Watch first lecture
-SCHEDULED: <2016-02-03 Wed +1w>
+SCHEDULED: <2016-02-10 Wed +1w>
+- State "DONE"       from "TODO"       [2016-02-03 Wed 14:35]
 - State "DONE"       from "TODO"       [2016-01-28 Thu 12:34]
 :PROPERTIES:
-:LAST_REPEAT: [2016-01-28 Thu 12:34]
+:LAST_REPEAT: [2016-02-03 Wed 14:35]
 :END:
 * TODO Watch second lecture
-SCHEDULED: <2016-02-05 Fri +1w>
+SCHEDULED: <2016-02-12 Fri +1w>
+- State "DONE"       from "TODO"       [2016-02-03 Wed 14:35]
 - State "DONE"       from "TODO"       [2016-02-01 Mon 16:24]
 :PROPERTIES:
-:LAST_REPEAT: [2016-02-01 Mon 16:24]
+:LAST_REPEAT: [2016-02-03 Wed 14:35]
 :END:
 * TODO Take 1-5 quizzes and exam [66%]
 DEADLINE: <2016-02-12 Fri>
