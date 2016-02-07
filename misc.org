@@ -22,4 +22,4 @@ SCHEDULED: <2016-02-05 Fri>
 CLOSED: [2016-02-04 Thu 15:01]
 * DONE Rename delgator to EventDelegator for a2 in csce 441
 CLOSED: [2016-02-04 Thu 15:01]
-* TODO change line_strip to line_loop for a2 in csce 441
+* DONE change line_strip to line_loop for a2 in csce 441
