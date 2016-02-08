@@ -1,5 +1,3 @@
-* Supper with parents
-<2016-02-13 Sat>
 * DONE Fix wifi
 CLOSED: [2016-01-28 Thu 12:37]
 * DONE Fix mousepad
