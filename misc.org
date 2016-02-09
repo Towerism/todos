@@ -21,4 +21,5 @@ CLOSED: [2016-02-04 Thu 15:01]
 * DONE Rename delgator to EventDelegator for a2 in csce 441
 CLOSED: [2016-02-04 Thu 15:01]
 * DONE change line_strip to line_loop for a2 in csce 441
-* TODO Change rotate origin in csce441-a2
+* DONE Change rotate origin in csce441-a2
+CLOSED: [2016-02-09 Tue 13:04]
