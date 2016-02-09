@@ -15,7 +15,7 @@ RSVP http://engineering.tamu.edu/graduate/events/gradschool101
 RICH 106
 RSVP http://engineering.tamu.edu/graduate/events/gradschool101
 * Interview at Reynolds and Reynolds 11:00am
-SCHEDULED: <2016-02-05 Fri>
+<2016-02-05 Fri>
 * DONE Finish refactoring background class for csce 441
 CLOSED: [2016-02-04 Thu 15:01]
 * DONE Rename delgator to EventDelegator for a2 in csce 441
