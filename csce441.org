@@ -9,3 +9,6 @@ CLOSED: [2016-02-08 Mon 14:58] DEADLINE: <2016-02-08 Mon>
 * DONE Refactor a2 to use flashpunk style delegation
 CLOSED: [2016-02-04 Thu 17:12]
 * TODO Scan Conversion and Clipping assignment
+* TODO Refactor a3 skeleton code
+- [ ] Framebuffer class
+- [ ] Wrapper namespace for drawing
