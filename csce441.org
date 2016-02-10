@@ -12,3 +12,4 @@ CLOSED: [2016-02-04 Thu 17:12]
 * TODO Refactor a3 skeleton code
 - [ ] Framebuffer class
 - [ ] Wrapper namespace for drawing
+* TODO Memorize all matrix transformations except 3d rotation about arbitrary axis
