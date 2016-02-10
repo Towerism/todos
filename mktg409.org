@@ -8,13 +8,13 @@ SCHEDULED: <2016-02-08 Mon +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2016-02-01 Mon 16:23]
 :END:
-* TODO Take 1-5 quizzes and exam [33%]
+* TODO Take 1-5 quizzes and exam [83%]
 DEADLINE: <2016-02-12 Fri>
 - [X] 1
 - [X] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
+- [X] 3
+- [X] 4
+- [X] 5
 - [ ] exam
 * TODO Take 6-10 quizzes and exam [0%]
 DEADLINE: <2016-03-11 Fri>

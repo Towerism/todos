@@ -1,5 +1,3 @@
-* Supper with parents
-<2016-02-13 Sat>
 * DONE Fix wifi
 CLOSED: [2016-01-28 Thu 12:37]
 * DONE Fix mousepad
@@ -16,3 +14,12 @@ RSVP http://engineering.tamu.edu/graduate/events/gradschool101
 <2016-02-29 Mon>
 RICH 106
 RSVP http://engineering.tamu.edu/graduate/events/gradschool101
+* Interview at Reynolds and Reynolds 11:00am
+<2016-02-05 Fri>
+* DONE Finish refactoring background class for csce 441
+CLOSED: [2016-02-04 Thu 15:01]
+* DONE Rename delgator to EventDelegator for a2 in csce 441
+CLOSED: [2016-02-04 Thu 15:01]
+* DONE change line_strip to line_loop for a2 in csce 441
+* DONE Change rotate origin in csce441-a2
+CLOSED: [2016-02-09 Tue 13:04]
