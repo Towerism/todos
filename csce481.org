@@ -7,16 +7,20 @@ DEADLINE: <2016-02-17 Wed +1w> SCHEDULED: <2016-02-16 Tue +1w>
 :LAST_REPEAT: [2016-02-10 Wed 14:07]
 :END:
 * TODO Seminar Report
-DEADLINE: <2016-02-12 Fri +1w> SCHEDULED: <2016-02-11 Thu +1w>
+DEADLINE: <2016-02-26 Fri +1w> SCHEDULED: <2016-02-25 Thu +1w>
+- State "DONE"       from "TODO"       [2016-02-15 Mon 11:13]
+- State "DONE"       from "TODO"       [2016-02-15 Mon 11:13]
 - State "DONE"       from "TODO"       [2016-02-10 Wed 14:07]
 - State "DONE"       from "TODO"       [2016-01-28 Thu 16:34]
 - State "DONE"       from "TODO"       [2016-01-23 Sat 02:45]
 :PROPERTIES:
+:LAST_REPEAT: [2016-02-15 Mon 11:13]
+:END:
 :LAST_REPEAT: [2016-02-10 Wed 14:07]
 * DONE Resume
 CLOSED: [2016-01-26 Tue 22:10] DEADLINE: <2016-01-25 Mon>
-* TODO Long Assignment 1
-DEADLINE: <2016-02-14 Sun>
+* DONE Long Assignment 1
+CLOSED: [2016-02-15 Mon 11:13] DEADLINE: <2016-02-14 Sun>
 * TODO Long Assignment 2
 DEADLINE: <2016-03-13 Sun>
 * TODO Long Assignment 3
