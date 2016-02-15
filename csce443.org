@@ -7,3 +7,5 @@ DEADLINE: <2016-02-05 Fri>
 CLOSED: [2016-02-02 Tue 12:37]
 * DONE Quiz 4
 CLOSED: [2016-02-03 Wed 14:37] DEADLINE: <2016-02-05 Fri>
+* TODO "Subject Observer" for Don't jump the gun!
+DEADLINE: <2016-02-18 Thu>
