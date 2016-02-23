@@ -8,6 +8,6 @@ CLOSED: [2016-02-01 Mon 14:56] DEADLINE: <2016-02-01 Mon>
 CLOSED: [2016-02-08 Mon 14:58] DEADLINE: <2016-02-08 Mon>
 * DONE Refactor a2 to use flashpunk style delegation
 CLOSED: [2016-02-04 Thu 17:12]
-* TODO Scan Conversion and Clipping assignment
-DEADLINE: <2016-02-22 Mon>
+* DONE Scan Conversion and Clipping assignment
+CLOSED: [2016-02-23 Tue 14:43] DEADLINE: <2016-02-22 Mon>
 * TODO Memorize all matrix transformations except 3d rotation about arbitrary axis
