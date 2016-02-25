@@ -19,11 +19,11 @@ CLOSED: [2016-02-10 Wed 14:09] DEADLINE: <2016-02-12 Fri>
 - [X] 4
 - [X] 5
 - [X] exam
-* TODO Take 6-10 quizzes and exam [33%]
+* TODO Take 6-10 quizzes and exam [50%]
 DEADLINE: <2016-03-11 Fri>
 - [X] 6
 - [X] 7
-- [ ] 8
+- [X] 8
 - [ ] 9
 - [ ] 10
 - [ ] exam
