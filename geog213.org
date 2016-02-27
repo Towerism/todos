@@ -2,7 +2,7 @@
 CLOSED: [2016-02-01 Mon 14:59] DEADLINE: <2016-02-01 Mon>
 * DONE Reflection on spatial awareness
 CLOSED: [2016-02-25 Thu 12:42]
-* TODO Lab 8 [%]
-DEADLINE: <2016-02-29 Mon>
+* DONE Lab 8 [%]
+CLOSED: [2016-02-27 Sat 11:18] DEADLINE: <2016-02-29 Mon>
 - [ ] Classification Map
 - [ ] Classification Write Up
