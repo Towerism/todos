@@ -14,7 +14,6 @@ CLOSED: [2016-02-23 Tue 14:43] DEADLINE: <2016-02-22 Mon>
 * TODO Study for exam 1 [0%]
 SCHEDULED: <2016-03-01 Tue>
 - [ ] Memorize all matrix transformations except 3d rotation about arbitrary axis
-- [ ] Read last friday lecture
-- [ ] Read monday lecture
+- [ ] Memorize everything else (including color models)
 * DONE Assignment 3
 CLOSED: [2016-02-27 Sat 11:18] DEADLINE: <2016-03-07 Mon>
