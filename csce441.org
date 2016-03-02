@@ -11,8 +11,8 @@ CLOSED: [2016-02-04 Thu 17:12]
 * DONE Scan Conversion and Clipping assignment
 
 CLOSED: [2016-02-23 Tue 14:43] DEADLINE: <2016-02-22 Mon>
-* TODO Study for exam 1 [0%]
-SCHEDULED: <2016-03-01 Tue>
+* DONE Study for exam 1 [0%]
+CLOSED: [2016-03-02 Wed 10:22] SCHEDULED: <2016-03-01 Tue>
 - [ ] Memorize all matrix transformations except 3d rotation about arbitrary axis
 - [ ] Memorize everything else (including color models)
 * DONE Assignment 3
