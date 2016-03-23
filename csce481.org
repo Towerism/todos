@@ -1,5 +1,7 @@
 * TODO Seminar Report
-DEADLINE: <2016-03-23 Wed +1w> SCHEDULED: <2016-03-22 Tue +1w>
+DEADLINE: <2016-04-06 Wed +1w> SCHEDULED: <2016-04-05 Tue +1w>
+- State "DONE"       from "TODO"       [2016-03-23 Wed 15:34]
+- State "DONE"       from "TODO"       [2016-03-23 Wed 15:34]
 - State "DONE"       from "TODO"       [2016-03-10 Thu 13:35]
 - State "DONE"       from "TODO"       [2016-03-10 Thu 13:35]
 - State "DONE"       from "TODO"       [2016-02-29 Mon 11:11]
@@ -9,7 +11,7 @@ DEADLINE: <2016-03-23 Wed +1w> SCHEDULED: <2016-03-22 Tue +1w>
 - State "DONE"       from "TODO"       [2016-02-10 Wed 14:07]
 - State "DONE"       from "TODO"       [2016-01-26 Tue 00:20]
 :PROPERTIES:
-:LAST_REPEAT: [2016-03-10 Thu 13:35]
+:LAST_REPEAT: [2016-03-23 Wed 15:34]
 :END:
 * TODO Seminar Report
 DEADLINE: <2016-04-01 Fri +1w> SCHEDULED: <2016-03-31 Thu +1w>
