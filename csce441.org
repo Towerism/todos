@@ -17,3 +17,5 @@ CLOSED: [2016-03-02 Wed 10:22] SCHEDULED: <2016-03-01 Tue>
 - [ ] Memorize everything else (including color models)
 * DONE Assignment 3
 CLOSED: [2016-02-27 Sat 11:18] DEADLINE: <2016-03-07 Mon>
+* TODO Memorize local illumination functions
+SCHEDULED: <2016-03-23 Wed> 
