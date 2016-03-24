@@ -6,3 +6,5 @@ CLOSED: [2016-02-25 Thu 12:42]
 CLOSED: [2016-02-27 Sat 11:18] DEADLINE: <2016-02-29 Mon>
 - [ ] Classification Map
 - [ ] Classification Write Up
+* TODO Lab report
+DEADLINE: <2016-04-04 Mon>
